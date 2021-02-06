@@ -1,6 +1,6 @@
 <h1 align = "center">
 BotDevCon
-![Screenshot](./imgs/Logo.png)
+<img src="./imgs/Logo.png" width="350" title="hover text">
 <br>
 A simple discord bot made by Devcon Studios
 </h1>
