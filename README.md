@@ -1,7 +1,6 @@
 <h1 align = "center">
 BotDevCon
-  
-  
+<br>
 <img src="./imgs/Logo.png" width="350" title="hover text">
 
 
