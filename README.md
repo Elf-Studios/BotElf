@@ -1,5 +1,5 @@
 <h1 align = "center">
-BotDevCon
+BotElf
 <br><br>
 <img src="./imgs/Logo.png" width="350" title="hover text">
 
