@@ -1,4 +1,6 @@
 <h1 align = "center">
-# BotDevCon
-</h1>
+BotDevCon
+
 A simple discord bot made by Devcon Studios
+</h1>
+
