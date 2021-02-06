@@ -9,4 +9,4 @@ The official DevCon Studios Discord bot!
 
 Versions:
 
-DevCon Bot 0.1D - Sat,Feb 6,2020 (Initial Release)
+BotDevCon 0.1D - Sat,Feb 6,2020 (Initial Release)
