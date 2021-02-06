@@ -6,9 +6,9 @@ BotDevCon
 </h1>
 The official DevCon Studios Discord bot!
 <br>
+<br>
 
-
-Versions:
+<Strong>Versions:</Strong>
 
 - BotDevCon 0.1D - Sat,Feb 6,2020 (Initial Release)
 
